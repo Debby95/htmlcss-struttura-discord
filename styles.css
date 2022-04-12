@@ -16,7 +16,7 @@ body {
     margin: 0 auto;
 }
 
-.section-logo {
+nav {
     display: flex;
     background-color: #ACD8E6;
     padding-bottom: 20px;
@@ -109,6 +109,7 @@ body {
     background-color: #23272A;
     padding: 30px 30px;
     justify-content: center;
+    height: 600px; 
 }
 
 .col2 {
@@ -121,7 +122,6 @@ body {
     background-color: #1FB2AA;
     border: 3px dashed #000000;
     width: 10%;
-    padding: 250px 60px;
 }
 
 .section-logo2 {
